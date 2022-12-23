@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="SanityTest">
+
+   <test name="EcomarceLuma_Project" >
+      <classes>
+         <class name="luma.usa.myRunner.MyRunner"/>
+      </classes>
+   </test>
+</suite>
