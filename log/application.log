@@ -1459,3 +1459,117 @@
 2022-12-22 18:11:15,081 [main] INFO TestLead - getClickOnShipHere
 2022-12-22 18:11:15,256 [main] INFO TestLead - clickRadioButton
 2022-12-22 18:11:16,060 [main] INFO TestLead - getClickNext
+2022-12-24 13:35:27,495 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 13:35:27,521 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\shahi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 13:35:31,586 [main] INFO TestLead - User able to click SignIn button
+2022-12-24 13:35:32,580 [main] INFO TestLead - User able to enter userName
+2022-12-24 13:35:32,849 [main] INFO TestLead - User able to enter password
+2022-12-24 13:35:32,960 [main] INFO TestLead - User able to click login button
+2022-12-24 13:35:37,764 [main] INFO TestLead - User can select size
+2022-12-24 13:35:44,416 [main] INFO TestLead - inputFirstName
+2022-12-24 13:35:44,909 [main] INFO TestLead - inputLastName
+2022-12-24 13:35:45,179 [main] INFO TestLead - getClickOnCompanyName
+2022-12-24 13:35:45,399 [main] INFO TestLead - getInputStreetName
+2022-12-24 13:35:45,640 [main] INFO TestLead - getInputCityName
+2022-12-24 13:35:45,894 [main] INFO TestLead - getInputStateName
+2022-12-24 13:35:46,006 [main] INFO TestLead - getInputZipCode
+2022-12-24 13:35:46,127 [main] INFO TestLead - getInputCountryName
+2022-12-24 13:35:46,371 [main] INFO TestLead - getInputPhoneNumber
+2022-12-24 13:35:46,499 [main] INFO TestLead - getClickOnShipHere
+2022-12-24 13:35:46,680 [main] INFO TestLead - clickRadioButton
+2022-12-24 13:35:47,392 [main] INFO TestLead - getClickNext
+2022-12-24 22:20:07,607 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 22:20:07,630 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\shahi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 22:20:11,015 [main] INFO TestLead - User able to click SignIn button
+2022-12-24 22:20:12,064 [main] INFO TestLead - User able to enter userName
+2022-12-24 22:20:12,244 [main] INFO TestLead - User able to enter password
+2022-12-24 22:20:12,329 [main] INFO TestLead - User able to click login button
+2022-12-24 22:20:17,347 [main] INFO TestLead - User can select size
+2022-12-24 22:20:23,882 [main] INFO TestLead - inputFirstName
+2022-12-24 22:20:24,332 [main] INFO TestLead - inputLastName
+2022-12-24 22:20:24,648 [main] INFO TestLead - getClickOnCompanyName
+2022-12-24 22:20:24,873 [main] INFO TestLead - getInputStreetName
+2022-12-24 22:20:25,114 [main] INFO TestLead - getInputCityName
+2022-12-24 22:20:25,336 [main] INFO TestLead - getInputStateName
+2022-12-24 22:20:25,470 [main] INFO TestLead - getInputZipCode
+2022-12-24 22:20:25,593 [main] INFO TestLead - getInputCountryName
+2022-12-24 22:20:25,835 [main] INFO TestLead - getInputPhoneNumber
+2022-12-24 22:20:25,971 [main] INFO TestLead - getClickOnShipHere
+2022-12-24 22:20:26,156 [main] INFO TestLead - clickRadioButton
+2022-12-24 22:20:27,039 [main] INFO TestLead - getClickNext
+2022-12-24 22:21:54,596 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 22:21:54,612 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\shahi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 22:21:57,552 [main] INFO TestLead - User able to click SignIn button
+2022-12-24 22:21:58,651 [main] INFO TestLead - User able to enter userName
+2022-12-24 22:21:58,919 [main] INFO TestLead - User able to enter password
+2022-12-24 22:21:59,023 [main] INFO TestLead - User able to click login button
+2022-12-24 22:22:04,154 [main] INFO TestLead - User can select size
+2022-12-24 22:22:10,448 [main] INFO TestLead - inputFirstName
+2022-12-24 22:22:11,080 [main] INFO TestLead - inputLastName
+2022-12-24 22:22:11,390 [main] INFO TestLead - getClickOnCompanyName
+2022-12-24 22:22:11,651 [main] INFO TestLead - getInputStreetName
+2022-12-24 22:22:11,892 [main] INFO TestLead - getInputCityName
+2022-12-24 22:22:12,127 [main] INFO TestLead - getInputStateName
+2022-12-24 22:22:12,260 [main] INFO TestLead - getInputZipCode
+2022-12-24 22:22:12,373 [main] INFO TestLead - getInputCountryName
+2022-12-24 22:22:12,628 [main] INFO TestLead - getInputPhoneNumber
+2022-12-24 22:22:12,770 [main] INFO TestLead - getClickOnShipHere
+2022-12-24 22:22:12,963 [main] INFO TestLead - clickRadioButton
+2022-12-24 22:22:13,771 [main] INFO TestLead - getClickNext
+2022-12-24 23:14:18,485 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-24 23:14:18,503 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\shahi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-24 23:14:21,673 [main] INFO TestLead - User able to click SignIn button
+2022-12-24 23:14:22,708 [main] INFO TestLead - User able to enter userName
+2022-12-24 23:14:22,931 [main] INFO TestLead - User able to enter password
+2022-12-24 23:14:23,017 [main] INFO TestLead - User able to click login button
+2022-12-24 23:14:28,033 [main] INFO TestLead - User can select size
+2022-12-24 23:14:34,105 [main] INFO TestLead - inputFirstName
+2022-12-24 23:14:34,693 [main] INFO TestLead - inputLastName
+2022-12-24 23:14:35,011 [main] INFO TestLead - getClickOnCompanyName
+2022-12-24 23:14:35,242 [main] INFO TestLead - getInputStreetName
+2022-12-24 23:14:35,513 [main] INFO TestLead - getInputCityName
+2022-12-24 23:14:35,757 [main] INFO TestLead - getInputStateName
+2022-12-24 23:14:35,893 [main] INFO TestLead - getInputZipCode
+2022-12-24 23:14:36,051 [main] INFO TestLead - getInputCountryName
+2022-12-24 23:14:36,315 [main] INFO TestLead - getInputPhoneNumber
+2022-12-24 23:14:36,441 [main] INFO TestLead - getClickOnShipHere
+2022-12-24 23:14:36,623 [main] INFO TestLead - clickRadioButton
+2022-12-24 23:14:37,406 [main] INFO TestLead - getClickNext
+2022-12-26 18:51:07,335 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-26 18:51:07,354 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\shahi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-26 18:51:11,141 [main] INFO TestLead - User able to click SignIn button
+2022-12-26 18:51:12,246 [main] INFO TestLead - User able to enter userName
+2022-12-26 18:51:12,442 [main] INFO TestLead - User able to enter password
+2022-12-26 18:51:12,535 [main] INFO TestLead - User able to click login button
+2022-12-26 18:51:17,967 [main] INFO TestLead - User can select size
+2022-12-26 18:51:26,279 [main] INFO TestLead - inputFirstName
+2022-12-26 18:51:26,818 [main] INFO TestLead - inputLastName
+2022-12-26 18:51:27,070 [main] INFO TestLead - getClickOnCompanyName
+2022-12-26 18:51:27,280 [main] INFO TestLead - getInputStreetName
+2022-12-26 18:51:27,524 [main] INFO TestLead - getInputCityName
+2022-12-26 18:51:27,732 [main] INFO TestLead - getInputStateName
+2022-12-26 18:51:27,826 [main] INFO TestLead - getInputZipCode
+2022-12-26 18:51:27,921 [main] INFO TestLead - getInputCountryName
+2022-12-26 18:51:28,161 [main] INFO TestLead - getInputPhoneNumber
+2022-12-26 18:51:28,270 [main] INFO TestLead - getClickOnShipHere
+2022-12-26 18:51:28,437 [main] INFO TestLead - clickRadioButton
+2022-12-26 18:51:29,209 [main] INFO TestLead - getClickNext
+2022-12-26 18:53:23,901 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+2022-12-26 18:53:23,926 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\shahi\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+2022-12-26 18:53:27,272 [main] INFO TestLead - User able to click SignIn button
+2022-12-26 18:53:28,304 [main] INFO TestLead - User able to enter userName
+2022-12-26 18:53:28,508 [main] INFO TestLead - User able to enter password
+2022-12-26 18:53:28,600 [main] INFO TestLead - User able to click login button
+2022-12-26 18:53:33,662 [main] INFO TestLead - User can select size
+2022-12-26 18:53:40,244 [main] INFO TestLead - inputFirstName
+2022-12-26 18:53:41,139 [main] INFO TestLead - inputLastName
+2022-12-26 18:53:41,411 [main] INFO TestLead - getClickOnCompanyName
+2022-12-26 18:53:41,633 [main] INFO TestLead - getInputStreetName
+2022-12-26 18:53:41,877 [main] INFO TestLead - getInputCityName
+2022-12-26 18:53:42,086 [main] INFO TestLead - getInputStateName
+2022-12-26 18:53:42,225 [main] INFO TestLead - getInputZipCode
+2022-12-26 18:53:42,362 [main] INFO TestLead - getInputCountryName
+2022-12-26 18:53:42,655 [main] INFO TestLead - getInputPhoneNumber
+2022-12-26 18:53:42,777 [main] INFO TestLead - getClickOnShipHere
+2022-12-26 18:53:42,961 [main] INFO TestLead - clickRadioButton
+2022-12-26 18:53:43,731 [main] INFO TestLead - getClickNext
